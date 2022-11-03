@@ -5,7 +5,7 @@ STS (Spring Tool Suite)
 Dependent Starters : Spring Security, Spring Web, Cloud OAuth2, Spring Boot DevTools
 JDK8 or later versions
 
-2) Step 1 : Create App in Facebook
+2) Create App in Facebook for third  party verifcition 
 
 Before fallow step , you have to create account on meta for Developers.
 
